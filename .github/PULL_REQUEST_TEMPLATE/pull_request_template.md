@@ -9,7 +9,7 @@ assignees: ''
 
 **Description**
 
-A clear and concise description of what the issue being addressed is.
+A clear and concise description of the issue being addressed and resolved.
 
 <ins>Note: Please take a moment to redact all private information.</ins>
 
